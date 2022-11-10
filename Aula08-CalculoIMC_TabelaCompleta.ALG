@@ -31,7 +31,7 @@ Escreval ("")
                   
 Escreval ("----------------------")
 Escreval ("IMC CALCULADO: " , imc:5:2)
-Escreval ("----------------------")
+Escreval ("--------------------------------")
 Escreval ("")
 
          
@@ -63,7 +63,7 @@ Escreval ("")
          Fimse
 
 Escreval ("")
-Escreval ("----------------------")
+Escreval ("--------------------------------")
 
 
 Fimalgoritmo
