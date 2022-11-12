@@ -22,7 +22,7 @@ Escreval ("")
          Escreva ("* INSIRA O NOME DO FUNCIONARIO: ")
             Leia (nome)
             
-         Escreva ("* INSIRA O SALARIO ATUAL: ")
+         Escreva ("* INSIRA O SALARIO ATUAL: R$ ")
             Leia (salario)
             
          Escreva ("* INSIRA NUMERO DE DEPENDENTES: ")
